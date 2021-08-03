@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "361444799764",
+    "project_id": "skct-beed9",
+    "storage_bucket": "skct-beed9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361444799764:android:29fa2d8d110a8a20803e01",
+        "android_client_info": {
+          "package_name": "com.example.skct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361444799764-c2e95g819ledumc6g4aokckop39nab6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skct",
+            "certificate_hash": "cdfab53add0581cbc6c92ba5049762eeda6633fb"
+          }
+        },
+        {
+          "client_id": "361444799764-ug7ipsb1regtrekd72sa24ce1l5f8jq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsAVUciSpZKMXjbY2d-XO3vSgizPCryEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361444799764-ug7ipsb1regtrekd72sa24ce1l5f8jq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
